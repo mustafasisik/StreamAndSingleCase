@@ -1,6 +1,6 @@
+Deprecated==1.2.14
 blinker==1.7.0
 click==8.1.7
-Deprecated==1.2.14
 Flask==3.0.2
 Flask-Limiter==3.5.1
 importlib_resources==6.1.3
