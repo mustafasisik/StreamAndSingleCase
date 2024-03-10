@@ -1,5 +1,5 @@
 blinker==1.5
-cachetools==5.3.3
+cachetools==4.2.4
 certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
